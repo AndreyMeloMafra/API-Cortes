@@ -1,6 +1,6 @@
 module.exports = {
     dialect: 'postgres',
-    host: 'localhost',
+    host: 'cortes-piranhas.herokuapp.com',
     username: 'postgres',
     password: '1234',
     database: 'cortes',
